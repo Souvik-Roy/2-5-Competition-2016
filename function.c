@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 int puts(const char *str) {
-  fputs("Sentence I want to print!\n", stdout);
+  fputs("First Hand Foundation !\n", stdout);
 }
 
 int main() {
